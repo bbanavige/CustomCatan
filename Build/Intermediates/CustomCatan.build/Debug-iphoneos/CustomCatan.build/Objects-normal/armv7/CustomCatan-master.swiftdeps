@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "a45adfc8e7227a3f0b8d893fed4f6a3e"
+build_time: [553904377, 874665000]
+inputs:
+  "/Users/Ben/Documents/cc/CustomCatan/CustomCatan/ViewControllerBigBoard.swift": [553143719, 0]
+  "/Users/Ben/Documents/cc/CustomCatan/ViewControllerExpansion.swift": [552891767, 0]
+  "/Users/Ben/Documents/cc/CustomCatan/CustomCatan/ViewControllerStandardBoard.swift": [552967628, 0]
+  "/Users/Ben/Documents/cc/CustomCatan/CustomCatan/genScript.swift": [552888481, 0]
+  "/Users/Ben/Documents/cc/CustomCatan/CustomCatan/ViewController.swift": [552103299, 0]
+  "/Users/Ben/Documents/cc/CustomCatan/CustomCatan/AppDelegate.swift": [552101895, 0]
+  "/Users/Ben/Documents/cc/CustomCatan/CustomCatan/ViewControllerStandard.swift": [552663381, 0]
+  "/Users/Ben/Documents/cc/CustomCatan/CustomCatan/ViewControllerHome.swift": [552179281, 0]
+  "/Users/Ben/Documents/cc/CustomCatan/CustomCatan/genScriptBig.swift": [553143890, 0]

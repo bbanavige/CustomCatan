@@ -1,0 +1,331 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewControllerStandard"
+provides-nominal:
+- "C11CustomCatan22ViewControllerStandard"
+provides-member:
+- ["C11CustomCatan22ViewControllerStandard", ""]
+provides-dynamic-lookup:
+- "Adjacent68Switch"
+- "completelyRandomSwitch"
+- "createStandardButton"
+- "noAdjacentDoublesSwitch"
+- "noAdjacentTriplesSwitch"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "UIButton"
+- "UISwitch"
+- "UIViewController"
+- "ViewControllerStandard"
+- !private "dubs"
+- !private "resourceNoDubs"
+- !private "resourceNoTrips"
+- !private "resourceRandom"
+depends-member:
+- !private ["Ps9AnyObject", "Adjacent68Switch"]
+- !private ["Ps9AnyObject", "completelyRandomSwitch"]
+- !private ["Ps9AnyObject", "dubs"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "isOn"]
+- !private ["Ps9AnyObject", "noAdjacentDoublesSwitch"]
+- !private ["Ps9AnyObject", "noAdjacentTriplesSwitch"]
+- !private ["Ps9AnyObject", "resourceNoDubs"]
+- !private ["Ps9AnyObject", "resourceNoTrips"]
+- !private ["Ps9AnyObject", "resourceRandom"]
+- !private ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["PSo15CALayerDelegate", "isOn"]
+- !private ["Ps7CVarArg", "Adjacent68Switch"]
+- !private ["Ps7CVarArg", "completelyRandomSwitch"]
+- !private ["Ps7CVarArg", "dubs"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "isOn"]
+- !private ["Ps7CVarArg", "noAdjacentDoublesSwitch"]
+- !private ["Ps7CVarArg", "noAdjacentTriplesSwitch"]
+- !private ["Ps7CVarArg", "resourceNoDubs"]
+- !private ["Ps7CVarArg", "resourceNoTrips"]
+- !private ["Ps7CVarArg", "resourceRandom"]
+- !private ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps28CustomDebugStringConvertible", "Adjacent68Switch"]
+- !private ["Ps28CustomDebugStringConvertible", "completelyRandomSwitch"]
+- !private ["Ps28CustomDebugStringConvertible", "dubs"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "isOn"]
+- !private ["Ps28CustomDebugStringConvertible", "noAdjacentDoublesSwitch"]
+- !private ["Ps28CustomDebugStringConvertible", "noAdjacentTriplesSwitch"]
+- !private ["Ps28CustomDebugStringConvertible", "resourceNoDubs"]
+- !private ["Ps28CustomDebugStringConvertible", "resourceNoTrips"]
+- !private ["Ps28CustomDebugStringConvertible", "resourceRandom"]
+- !private ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "Adjacent68Switch"]
+- !private ["Ps23CustomStringConvertible", "completelyRandomSwitch"]
+- !private ["Ps23CustomStringConvertible", "dubs"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "isOn"]
+- !private ["Ps23CustomStringConvertible", "noAdjacentDoublesSwitch"]
+- !private ["Ps23CustomStringConvertible", "noAdjacentTriplesSwitch"]
+- !private ["Ps23CustomStringConvertible", "resourceNoDubs"]
+- !private ["Ps23CustomStringConvertible", "resourceNoTrips"]
+- !private ["Ps23CustomStringConvertible", "resourceRandom"]
+- !private ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "Adjacent68Switch"]
+- !private ["Ps9Equatable", "completelyRandomSwitch"]
+- !private ["Ps9Equatable", "dubs"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "isOn"]
+- !private ["Ps9Equatable", "noAdjacentDoublesSwitch"]
+- !private ["Ps9Equatable", "noAdjacentTriplesSwitch"]
+- !private ["Ps9Equatable", "resourceNoDubs"]
+- !private ["Ps9Equatable", "resourceNoTrips"]
+- !private ["Ps9Equatable", "resourceRandom"]
+- !private ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "Adjacent68Switch"]
+- !private ["Ps8Hashable", "completelyRandomSwitch"]
+- !private ["Ps8Hashable", "dubs"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "isOn"]
+- !private ["Ps8Hashable", "noAdjacentDoublesSwitch"]
+- !private ["Ps8Hashable", "noAdjacentTriplesSwitch"]
+- !private ["Ps8Hashable", "resourceNoDubs"]
+- !private ["Ps8Hashable", "resourceNoTrips"]
+- !private ["Ps8Hashable", "resourceRandom"]
+- !private ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- !private ["PSo8NSCoding", "Adjacent68Switch"]
+- !private ["PSo8NSCoding", "completelyRandomSwitch"]
+- !private ["PSo8NSCoding", "dubs"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "isOn"]
+- !private ["PSo8NSCoding", "noAdjacentDoublesSwitch"]
+- !private ["PSo8NSCoding", "noAdjacentTriplesSwitch"]
+- !private ["PSo8NSCoding", "resourceNoDubs"]
+- !private ["PSo8NSCoding", "resourceNoTrips"]
+- !private ["PSo8NSCoding", "resourceRandom"]
+- !private ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo26NSExtensionRequestHandling", "Adjacent68Switch"]
+- !private ["PSo26NSExtensionRequestHandling", "completelyRandomSwitch"]
+- !private ["PSo26NSExtensionRequestHandling", "dubs"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "noAdjacentDoublesSwitch"]
+- !private ["PSo26NSExtensionRequestHandling", "noAdjacentTriplesSwitch"]
+- !private ["PSo26NSExtensionRequestHandling", "resourceNoDubs"]
+- !private ["PSo26NSExtensionRequestHandling", "resourceNoTrips"]
+- !private ["PSo26NSExtensionRequestHandling", "resourceRandom"]
+- !private ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "Adjacent68Switch"]
+- ["CSo8NSObject", "UIButton"]
+- ["CSo8NSObject", "UISwitch"]
+- ["CSo8NSObject", "completelyRandomSwitch"]
+- ["CSo8NSObject", "createStandardButton"]
+- !private ["CSo8NSObject", "dubs"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "isOn"]
+- ["CSo8NSObject", "noAdjacentDoublesSwitch"]
+- ["CSo8NSObject", "noAdjacentTriplesSwitch"]
+- !private ["CSo8NSObject", "resourceNoDubs"]
+- !private ["CSo8NSObject", "resourceNoTrips"]
+- !private ["CSo8NSObject", "resourceRandom"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "Adjacent68Switch"]
+- !private ["PSo16NSObjectProtocol", "completelyRandomSwitch"]
+- !private ["PSo16NSObjectProtocol", "dubs"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "isOn"]
+- !private ["PSo16NSObjectProtocol", "noAdjacentDoublesSwitch"]
+- !private ["PSo16NSObjectProtocol", "noAdjacentTriplesSwitch"]
+- !private ["PSo16NSObjectProtocol", "resourceNoDubs"]
+- !private ["PSo16NSObjectProtocol", "resourceNoTrips"]
+- !private ["PSo16NSObjectProtocol", "resourceRandom"]
+- !private ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo29UIAccessibilityIdentification", "isOn"]
+- !private ["PSo12UIAppearance", "isOn"]
+- !private ["PSo21UIAppearanceContainer", "Adjacent68Switch"]
+- !private ["PSo21UIAppearanceContainer", "completelyRandomSwitch"]
+- !private ["PSo21UIAppearanceContainer", "dubs"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "isOn"]
+- !private ["PSo21UIAppearanceContainer", "noAdjacentDoublesSwitch"]
+- !private ["PSo21UIAppearanceContainer", "noAdjacentTriplesSwitch"]
+- !private ["PSo21UIAppearanceContainer", "resourceNoDubs"]
+- !private ["PSo21UIAppearanceContainer", "resourceNoTrips"]
+- !private ["PSo21UIAppearanceContainer", "resourceRandom"]
+- !private ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "Adjacent68Switch"]
+- !private ["PSo18UIContentContainer", "completelyRandomSwitch"]
+- !private ["PSo18UIContentContainer", "dubs"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "noAdjacentDoublesSwitch"]
+- !private ["PSo18UIContentContainer", "noAdjacentTriplesSwitch"]
+- !private ["PSo18UIContentContainer", "resourceNoDubs"]
+- !private ["PSo18UIContentContainer", "resourceNoTrips"]
+- !private ["PSo18UIContentContainer", "resourceRandom"]
+- !private ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["CSo9UIControl", "isOn"]
+- !private ["PSo17UICoordinateSpace", "isOn"]
+- !private ["PSo13UIDynamicItem", "isOn"]
+- !private ["PSo18UIFocusEnvironment", "Adjacent68Switch"]
+- !private ["PSo18UIFocusEnvironment", "completelyRandomSwitch"]
+- !private ["PSo18UIFocusEnvironment", "dubs"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "isOn"]
+- !private ["PSo18UIFocusEnvironment", "noAdjacentDoublesSwitch"]
+- !private ["PSo18UIFocusEnvironment", "noAdjacentTriplesSwitch"]
+- !private ["PSo18UIFocusEnvironment", "resourceNoDubs"]
+- !private ["PSo18UIFocusEnvironment", "resourceNoTrips"]
+- !private ["PSo18UIFocusEnvironment", "resourceRandom"]
+- !private ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "isOn"]
+- ["CSo11UIResponder", "Adjacent68Switch"]
+- ["CSo11UIResponder", "UIButton"]
+- ["CSo11UIResponder", "UISwitch"]
+- ["CSo11UIResponder", "completelyRandomSwitch"]
+- ["CSo11UIResponder", "createStandardButton"]
+- !private ["CSo11UIResponder", "dubs"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "isOn"]
+- ["CSo11UIResponder", "noAdjacentDoublesSwitch"]
+- ["CSo11UIResponder", "noAdjacentTriplesSwitch"]
+- !private ["CSo11UIResponder", "resourceNoDubs"]
+- !private ["CSo11UIResponder", "resourceNoTrips"]
+- !private ["CSo11UIResponder", "resourceRandom"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "Adjacent68Switch"]
+- !private ["PSo30UIResponderStandardEditActions", "completelyRandomSwitch"]
+- !private ["PSo30UIResponderStandardEditActions", "dubs"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "isOn"]
+- !private ["PSo30UIResponderStandardEditActions", "noAdjacentDoublesSwitch"]
+- !private ["PSo30UIResponderStandardEditActions", "noAdjacentTriplesSwitch"]
+- !private ["PSo30UIResponderStandardEditActions", "resourceNoDubs"]
+- !private ["PSo30UIResponderStandardEditActions", "resourceNoTrips"]
+- !private ["PSo30UIResponderStandardEditActions", "resourceRandom"]
+- !private ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo16UIStateRestoring", "Adjacent68Switch"]
+- !private ["PSo16UIStateRestoring", "completelyRandomSwitch"]
+- !private ["PSo16UIStateRestoring", "dubs"]
+- !private ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "noAdjacentDoublesSwitch"]
+- !private ["PSo16UIStateRestoring", "noAdjacentTriplesSwitch"]
+- !private ["PSo16UIStateRestoring", "resourceNoDubs"]
+- !private ["PSo16UIStateRestoring", "resourceNoTrips"]
+- !private ["PSo16UIStateRestoring", "resourceRandom"]
+- !private ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["CSo8UISwitch", "isOn"]
+- !private ["PSo18UITraitEnvironment", "Adjacent68Switch"]
+- !private ["PSo18UITraitEnvironment", "completelyRandomSwitch"]
+- !private ["PSo18UITraitEnvironment", "dubs"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "isOn"]
+- !private ["PSo18UITraitEnvironment", "noAdjacentDoublesSwitch"]
+- !private ["PSo18UITraitEnvironment", "noAdjacentTriplesSwitch"]
+- !private ["PSo18UITraitEnvironment", "resourceNoDubs"]
+- !private ["PSo18UITraitEnvironment", "resourceNoTrips"]
+- !private ["PSo18UITraitEnvironment", "resourceRandom"]
+- !private ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "isOn"]
+- ["CSo16UIViewController", "Adjacent68Switch"]
+- ["CSo16UIViewController", "UIButton"]
+- ["CSo16UIViewController", "UISwitch"]
+- ["CSo16UIViewController", "completelyRandomSwitch"]
+- ["CSo16UIViewController", "createStandardButton"]
+- !private ["CSo16UIViewController", "dubs"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "noAdjacentDoublesSwitch"]
+- ["CSo16UIViewController", "noAdjacentTriplesSwitch"]
+- !private ["CSo16UIViewController", "resourceNoDubs"]
+- !private ["CSo16UIViewController", "resourceNoTrips"]
+- !private ["CSo16UIViewController", "resourceRandom"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- ["C11CustomCatan22ViewControllerStandard", "Adjacent68Switch"]
+- ["C11CustomCatan22ViewControllerStandard", "UIButton"]
+- ["C11CustomCatan22ViewControllerStandard", "UISwitch"]
+- ["C11CustomCatan22ViewControllerStandard", "completelyRandomSwitch"]
+- ["C11CustomCatan22ViewControllerStandard", "createStandardButton"]
+- ["C11CustomCatan22ViewControllerStandard", "deinit"]
+- !private ["C11CustomCatan22ViewControllerStandard", "dubs"]
+- ["C11CustomCatan22ViewControllerStandard", "init"]
+- ["C11CustomCatan22ViewControllerStandard", "noAdjacentDoublesSwitch"]
+- ["C11CustomCatan22ViewControllerStandard", "noAdjacentTriplesSwitch"]
+- !private ["C11CustomCatan22ViewControllerStandard", "resourceNoDubs"]
+- !private ["C11CustomCatan22ViewControllerStandard", "resourceNoTrips"]
+- !private ["C11CustomCatan22ViewControllerStandard", "resourceRandom"]
+- ["C11CustomCatan22ViewControllerStandard", "viewDidLoad"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "isOn"]
+- !private ["Ps9_Hashable", "Adjacent68Switch"]
+- !private ["Ps9_Hashable", "completelyRandomSwitch"]
+- !private ["Ps9_Hashable", "dubs"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "isOn"]
+- !private ["Ps9_Hashable", "noAdjacentDoublesSwitch"]
+- !private ["Ps9_Hashable", "noAdjacentTriplesSwitch"]
+- !private ["Ps9_Hashable", "resourceNoDubs"]
+- !private ["Ps9_Hashable", "resourceNoTrips"]
+- !private ["Ps9_Hashable", "resourceRandom"]
+- !private ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "CSo9UIControl"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- !private "CSo8UISwitch"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- "C11CustomCatan22ViewControllerStandard"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/SwiftOnoneSupport.swiftmodule"
+interface-hash: "7406fed793f02e957712b6d79283c65a"
